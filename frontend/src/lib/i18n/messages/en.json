@@ -2551,7 +2551,9 @@
     "offlineModeDescription": "Turns off every optional internet connection: cloud sync, Google Drive backups, WhatsApp, update checks, usage analytics and image import from the web. Orders, billing, printing and devices on your local network keep working.",
     "offlineModeFailed": "Could not change Offline mode",
     "offlineModeReadFailed": "Could not read the current Offline mode setting.",
-    "offlineModeRetry": "Retry"
+    "offlineModeRetry": "Retry",
+    "desktopMenuVisible": "Desktop menu visible",
+    "desktopMenuVisibleHint": "Show or hide the desktop application menu bar"
   },
   "setup": {
     "alreadyCompleted": "Setup has already been completed on this install. Redirecting to login…",

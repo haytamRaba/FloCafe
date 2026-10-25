@@ -2551,7 +2551,9 @@
     "offlineModeDescription": "Tüm isteğe bağlı internet bağlantılarını kapatır: bulut eşitleme, Google Drive yedekleri, WhatsApp, güncelleme denetimi, kullanım analizi ve web'den görsel içe aktarma. Siparişler, faturalama, yazdırma ve yerel ağınızdaki cihazlar çalışmaya devam eder.",
     "offlineModeFailed": "Çevrimdışı mod değiştirilemedi",
     "offlineModeReadFailed": "Geçerli çevrimdışı mod ayarı okunamadı.",
-    "offlineModeRetry": "Yeniden dene"
+    "offlineModeRetry": "Yeniden dene",
+    "desktopMenuVisible": "Desktop menu visible",
+    "desktopMenuVisibleHint": "Show or hide the desktop application menu bar"
   },
   "setup": {
     "alreadyCompleted": "Kurulum bu cihazda zaten tamamlandı. Giriş ekranına yönlendiriliyorsunuz…",

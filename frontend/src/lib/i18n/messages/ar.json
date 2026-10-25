@@ -2551,7 +2551,9 @@
     "offlineModeDescription": "يوقف كل اتصال اختياري بالإنترنت: المزامنة السحابية، النسخ الاحتياطي على Google Drive، واتساب، التحقق من التحديثات، تحليلات الاستخدام واستيراد الصور من الويب. تستمر الطلبات والفواتير والطباعة والأجهزة على شبكتك المحلية في العمل.",
     "offlineModeFailed": "تعذر تغيير وضع عدم الاتصال",
     "offlineModeReadFailed": "تعذرت قراءة إعداد وضع عدم الاتصال الحالي.",
-    "offlineModeRetry": "إعادة المحاولة"
+    "offlineModeRetry": "إعادة المحاولة",
+    "desktopMenuVisible": "Desktop menu visible",
+    "desktopMenuVisibleHint": "Show or hide the desktop application menu bar"
   },
   "setup": {
     "alreadyCompleted": "تم الانتهاء من عملية الإعداد في هذا التثبيت. يتم إعادة التوجيه إلى صفحة تسجيل الدخول…",

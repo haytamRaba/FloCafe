@@ -2551,7 +2551,9 @@
     "offlineModeDescription": "Schaltet jede optionale Internetverbindung ab: Cloud-Sync, Google-Drive-Sicherungen, WhatsApp, Update-Prüfungen, Nutzungsanalysen und den Bildimport aus dem Web. Bestellungen, Abrechnung, Drucken und Geräte im lokalen Netzwerk funktionieren weiter.",
     "offlineModeFailed": "Der Offline-Modus konnte nicht geändert werden",
     "offlineModeReadFailed": "Die aktuelle Offline-Modus-Einstellung konnte nicht gelesen werden.",
-    "offlineModeRetry": "Erneut versuchen"
+    "offlineModeRetry": "Erneut versuchen",
+    "desktopMenuVisible": "Desktop menu visible",
+    "desktopMenuVisibleHint": "Show or hide the desktop application menu bar"
   },
   "setup": {
     "alreadyCompleted": "Die Ersteinrichtung wurde bereits abgeschlossen. Weiterleitung zur Anmeldung…",

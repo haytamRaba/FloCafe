@@ -2551,7 +2551,9 @@
     "offlineModeDescription": "クラウド同期、Google Drive バックアップ、WhatsApp、アップデート確認、利用状況の分析、Web からの画像取り込みなど、任意のインターネット接続をすべて停止します。注文、会計、印刷、ローカルネットワーク上のデバイスは引き続き動作します。",
     "offlineModeFailed": "オフラインモードを変更できませんでした",
     "offlineModeReadFailed": "現在のオフラインモード設定を読み込めませんでした。",
-    "offlineModeRetry": "再試行"
+    "offlineModeRetry": "再試行",
+    "desktopMenuVisible": "Desktop menu visible",
+    "desktopMenuVisibleHint": "Show or hide the desktop application menu bar"
   },
   "setup": {
     "alreadyCompleted": "このインストールではセットアップが完了しています。ログインへ移動します…",
